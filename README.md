@@ -26,7 +26,11 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+<img width="1197" height="724" alt="image" src="https://github.com/user-attachments/assets/7b64e8f7-7f00-40a3-a279-59bea35664bb" />
+
 # Output:
+<img width="1208" height="528" alt="image" src="https://github.com/user-attachments/assets/56e69c44-3d0a-41a7-be9d-1254eb0be6df" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
