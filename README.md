@@ -61,7 +61,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+<img width="1203" height="536" alt="image" src="https://github.com/user-attachments/assets/93435099-7580-4668-b3ff-cf5e140854c6" />
+
 # Output:
+<img width="1204" height="468" alt="image" src="https://github.com/user-attachments/assets/eaf7f202-07e1-4f4f-afe9-185474f509a8" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -85,7 +89,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+<img width="1164" height="534" alt="image" src="https://github.com/user-attachments/assets/5f5a9a7c-72d3-4c05-a4a3-7cf9a20b3f48" />
+
 # Output:
+<img width="1207" height="449" alt="image" src="https://github.com/user-attachments/assets/bcc14121-364e-490f-9a8d-f5976507dc55" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -124,7 +132,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="954" height="712" alt="image" src="https://github.com/user-attachments/assets/cd997760-0192-4811-bdcc-51b829a12112" />
+
 # Output:
+<img width="973" height="650" alt="image" src="https://github.com/user-attachments/assets/8c821936-98bb-4e52-b5ab-1eb486bd28d5" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -169,7 +181,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="947" height="618" alt="image" src="https://github.com/user-attachments/assets/ba5db4a0-ada6-4e20-8a01-e42048a6552a" />
+
 # Output:
+<img width="984" height="247" alt="image" src="https://github.com/user-attachments/assets/68dcbf88-8dbd-4fdd-9b95-65ed6b14751f" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
